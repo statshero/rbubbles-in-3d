@@ -1,7 +1,7 @@
 ## SETUP AND FUNCTIONS -------------------------------------------------
 
 # List of packages for session
-packages <- c( "dplyr", "ggplot2", "readr")
+packages <- c( "dplyr", "ggplot2", "readr", "plotly")
 
 # Install CRAN packages (if not already installed)
 .inst <- packages %in% installed.packages()

@@ -33,3 +33,4 @@ vignettes/*.pdf
 *.knit.md
 
 rbubbles-in-3d.Rproj
+.Rproj.user
