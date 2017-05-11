@@ -1,8 +1,5 @@
 ## SETUP AND FUNCTIONS -------------------------------------------------
 
-# Change to your file path
-setwd(“~/uatz/git/rbubbles-in-3d”)
-
 # List of packages for session
 packages <- c( "dplyr", "ggplot2", "readr")
 
