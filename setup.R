@@ -12,3 +12,7 @@ sapply(packages, require, character.only = TRUE)
 
 # ggplot2 options
 theme_set(theme_minimal(base_family = "Helvetica Neue", base_size = 14))
+
+# Set seed for random data
+set.seed(666)
+
